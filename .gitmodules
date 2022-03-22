@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:CMingTseng/ForexLedger_server.git
+[submodule "clinet"]
+	path = clinet
+	url = git@github.com:CMingTseng/ForexLedger_android.git
